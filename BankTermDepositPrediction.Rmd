@@ -1,7 +1,6 @@
 ---
 title: "Determining Term Deposits"
-author: Charles Harrison, Basu Lamichhane, Joshua Stevens, Wedam Nyaaba, Salvatore
-  Cracchiolo
+author: Wedam Nyaaba, Charles Harrison, Basu Lamichhane, and Salvatore Cracchiolo
 date: "March 2, 2017"
 output:
   pdf_document: default
